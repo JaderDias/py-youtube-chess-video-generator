@@ -1,0 +1,6 @@
+cairosvg
+chess
+google-api-python-client
+google-cloud-texttospeech
+google-auth-oauthlib
+moviepy
